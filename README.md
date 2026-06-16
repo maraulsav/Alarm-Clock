@@ -43,5 +43,17 @@ The main feature of my code is:
 - The clock can also display the current air quality and temperature
 
 ## BOM
-
+| Name | Purpose | Qty | Cost (USD) | Distributor |
+|------|----------|-----|------------|-------------|
+| M4 bolts with flat head | To connect the 3D printed parts | 1 | $0.93 | Tokopedia |
+| Heat insert | To securely connect the 3D print | 1 | $3.78 | Tokopedia |
+| Type-C charging module | Safely recharges single-cell lithium-ion batteries | 1 | $0.68 | Tokopedia |
+| Switch | Toggle components on and off | 3 | $0.30 | Tokopedia |
+| Jumper wire (male-to-male) | Connect one part to another | 2 | $1.41 | Tokopedia |
+| LED COB Lamp | Light source for the clock (mirror lighting/night lamp) | 1 | $0.80 | Tokopedia |
+| Speaker box (2x) | Producing sound | 1 | $3.04 | Tokopedia |
+| 3.7 V Battery | Power supply | 2 | $1.61 | Tokopedia |
+| ENS160 + AHT21 Sensor | Detect air quality and temperature | 1 | $5.04 | Tokopedia |
+| ESP32-C3 | Main microcontroller | 1 | $2.00 | Tokopedia |
+| TFT Display Module with Rotary Encoder | Display information and adjust the alarm | 1 | $19.15 | Tokopedia |
 
