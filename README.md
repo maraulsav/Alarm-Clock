@@ -19,7 +19,15 @@ Here I made the connection of the alarm clock, I dont use PCB because as I am no
 Here's my schematic design: 
 
 ## Case overview
+In creating my case, I had measured the component and like designing the case so the connection wont lose, especially for the type c charging module
 Below is the pincture of my case, there I plan to connect the two part (front and back) using the heat set insert
+
+This is the front part of my case:
+<img width="648" height="633" alt="Screenshot 2026-06-16 at 17 09 26" src="https://github.com/user-attachments/assets/6df2ee0d-ce4e-4a47-b9e5-24f251bcc952" />
+
+
+This is the back part of my case:
+<img width="556" height="634" alt="Screenshot 2026-06-16 at 17 08 55" src="https://github.com/user-attachments/assets/eec624dd-f2ed-451e-8044-a1bf74cc0bc0" />
 
 
 ## Code Overview
