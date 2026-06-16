@@ -1,4 +1,6 @@
 # Alarm-Clock
+<img width="472" height="496" alt="Screenshot 2026-06-16 at 17 05 35" src="https://github.com/user-attachments/assets/708b45c6-ab57-4117-986a-0be0fa10ed43" />
+
 Hii in this project I wanted to built an alarm clock that can display in real time (so it needed to connect to a wifi that can connect to my phone), also can gave sound to alert me, detect air quality and temperature and also I want it to function as a night lamp (I kind of scared of the dark wkwkwk).
 Here is the look of my overal project: 
 
