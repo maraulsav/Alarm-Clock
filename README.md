@@ -18,6 +18,9 @@ Here is the look of my overal project:
 Here I made the connection of the alarm clock, I dont use PCB because as I am not working in a tight space I think its kinda unecesary to use a PCB, and it can also cut cost anyway
 Here's my schematic design: 
 
+<img width="517" height="290" alt="Screenshot 2026-06-16 at 17 18 09" src="https://github.com/user-attachments/assets/448767f7-ad97-4205-b812-5256644b087b" />
+
+
 ## Case overview
 In creating my case, I had measured the component and like designing the case so the connection wont lose, especially for the type c charging module
 Below is the pincture of my case, there I plan to connect the two part (front and back) using the heat set insert
@@ -27,6 +30,7 @@ This is the front part of my case:
 
 
 This is the back part of my case:
+
 <img width="556" height="634" alt="Screenshot 2026-06-16 at 17 08 55" src="https://github.com/user-attachments/assets/eec624dd-f2ed-451e-8044-a1bf74cc0bc0" />
 
 
