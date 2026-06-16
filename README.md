@@ -1,5 +1,5 @@
 # Alarm-Clock
-Hii in this project I wanted to built an alarm clock that can display in real time (so it needed to connect to a wifi that can connect to my phone), also can gave sound to alert me, and also I want it to function as a night lamp (I kind of scared of the dark wkwkwk).
+Hii in this project I wanted to built an alarm clock that can display in real time (so it needed to connect to a wifi that can connect to my phone), also can gave sound to alert me, detect air quality and temperature and also I want it to function as a night lamp (I kind of scared of the dark wkwkwk).
 Here is the look of my overal project: 
 
 ## Features : 
@@ -26,6 +26,7 @@ The main feature of my code is:
 - User can select menu / mode
 - User can set the alarm
 - The clock is connected to wifi from the phone so can update in real time
+- The clock can also display the current air quality and temperature
 
 ## BOM
 
