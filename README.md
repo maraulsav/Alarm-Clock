@@ -1,22 +1,22 @@
 # Alarm-Clock
-<img width="472" height="496" alt="Screenshot 2026-06-16 at 17 05 35" src="https://github.com/user-attachments/assets/708b45c6-ab57-4117-986a-0be0fa10ed43" />
+Hello guysss, I have tried to make the alarm clock. But sadly it cannot work properly. I have tried everything that I can think of and the result is still like the picture below.. I have tried to documented every trial and error that I encounter in my Builder Journal.md file
+<img width="1171" height="604" alt="Screenshot 2026-06-29 at 13 06 16" src="https://github.com/user-attachments/assets/92b37a3a-3ceb-4a30-87ff-8f02a9baa4ac" />
 
 Hii in this project I wanted to built an alarm clock that can display in real time (so it needed to connect to a wifi that can connect to my phone), also can gave sound to alert me, detect air quality and temperature and also I want it to function as a night lamp (I kind of scared of the dark wkwkwk).
 Here is the look of my overal project: 
+<img width="472" height="496" alt="Screenshot 2026-06-16 at 17 05 35" src="https://github.com/user-attachments/assets/708b45c6-ab57-4117-986a-0be0fa10ed43" />
 
 ## Features : 
-- ATtiny85
-- 128px x 64px OLED Display 
-- 1 SMD LED.
-- 3 buttons (left, right, and start)
-- 1 Buzzer
-- 1 Slide switch
-- 1 CR2032 Metal Battery Socket
-- Resistors
+- Screen Display: TFT Display
+- Humidity and Temperature Sensor: ENS160+AHT21 Sensor 
+- Microcontroller: ESP32C3 Super Mini
+- Type C charging module
+- Speaker box
+- LED lamp
 
 ## Hardware
 Here I made the connection of the alarm clock, I dont use PCB because as I am not working in a tight space I think its kinda unecesary to use a PCB, and it can also cut cost anyway
-Here's my schematic design: 
+Here's wiring diagram
 
 <img width="517" height="290" alt="Screenshot 2026-06-16 at 17 18 09" src="https://github.com/user-attachments/assets/448767f7-ad97-4205-b812-5256644b087b" />
 
