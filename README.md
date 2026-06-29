@@ -1,6 +1,10 @@
 # Alarm-Clock
 Hello guysss, I have tried to make the alarm clock. But sadly it cannot work properly. I have tried everything that I can think of and the result is still like the picture below.. I have tried to documented every trial and error that I encounter in my Builder Journal.md file
 <img width="1171" height="604" alt="Screenshot 2026-06-29 at 13 06 16" src="https://github.com/user-attachments/assets/92b37a3a-3ceb-4a30-87ff-8f02a9baa4ac" />
+As I have tried everything that possible for me like fixing  wiring diagra and code, fixing soldering issue, and yet its still not working. I think this project can be not working because of component issue, especially the TFT display because one of the things that I tried is to switch the power supply to 5V because I thought perhaps 3.3V is too low for this.. and it didnot work it jsut shut down completely at that trial (I think if thats the cause it can damage the internal component). Some suggestion for you guys is that dont be in rush to switch up your voltage supply because it may messed with the internal component signal. I think thats why the display that shown is gibberish.
+
+but, I still wanted to said a special thanks to hackclub especially stasis that allow me to build the idea that I had. Thankss also for anyone of you guys that read this documentation.
+
 
 Hii in this project I wanted to built an alarm clock that can display in real time (so it needed to connect to a wifi that can connect to my phone), also can gave sound to alert me, detect air quality and temperature and also I want it to function as a night lamp (I kind of scared of the dark wkwkwk).
 Here is the look of my overal project: 
